@@ -24,6 +24,10 @@ Dashboard: http://localhost:5000/dashboard
 
 http://localhost:5000/posts
 
+## Heroku App
+
+https://hesing.herokuapp.com/posts
+
 ## Heroku Deploy
 
 ```
